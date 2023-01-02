@@ -15,7 +15,7 @@ def head():
     
     st.caption("""
         <p style='text-align: center; color: white'>
-        Developer: <a href=''>Adam Alexander Bria</a>
+        Developer: <a href='https://github.com/adambria1309'>Adam Alexander Bria</a>
         </p>
     """, unsafe_allow_html=True
     )
