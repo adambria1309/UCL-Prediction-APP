@@ -1,0 +1,253 @@
+,Unnamed: 0,Team1,Team2,Goal_Team_1,Goal_Team_2,Hasil
+0,1,Real Madrid,Liverpool,1,0,Team 1 Menang
+7,8,Chelsea,Real Madrid,1,3,Team 2 Menang
+8,9,Real Madrid,Chelsea,2,3,Team 2 Menang
+9,10,Benfica,Liverpool,1,3,Team 2 Menang
+10,11,Liverpool,Benfica,3,3,Imbang
+23,24,Paris S-G,Real Madrid,1,0,Team 1 Menang
+24,25,Real Madrid,Paris S-G,3,1,Team 1 Menang
+30,31,Real Madrid,Chelsea,1,1,Imbang
+31,32,Chelsea,Real Madrid,2,0,Team 1 Menang
+34,35,Bayern Munich,Paris S-G,2,3,Team 2 Menang
+35,36,Paris S-G,Bayern Munich,0,1,Team 2 Menang
+36,37,Real Madrid,Liverpool,3,1,Team 1 Menang
+37,38,Liverpool,Real Madrid,0,0,Imbang
+58,59,Bayern Munich,Paris S-G,1,0,Team 1 Menang
+59,60,Chelsea,Bayern Munich,0,3,Team 2 Menang
+60,61,Bayern Munich,Chelsea,4,1,Team 1 Menang
+71,72,Dortmund,Paris S-G,2,1,Team 1 Menang
+72,73,Paris S-G,Dortmund,2,0,Team 1 Menang
+75,76,Liverpool,Tottenham,2,0,Team 1 Menang
+88,89,Liverpool,Bayern Munich,0,0,Imbang
+89,90,Bayern Munich,Liverpool,1,3,Team 2 Menang
+96,97,Tottenham,Dortmund,3,0,Team 1 Menang
+97,98,Dortmund,Tottenham,0,1,Team 2 Menang
+104,105,Real Madrid,Liverpool,3,1,Team 1 Menang
+105,106,Bayern Munich,Real Madrid,1,2,Team 2 Menang
+106,107,Real Madrid,Bayern Munich,2,2,Imbang
+125,126,Real Madrid,Paris S-G,3,1,Team 1 Menang
+126,127,Paris S-G,Real Madrid,1,2,Team 2 Menang
+138,139,Bayern Munich,Real Madrid,1,2,Team 2 Menang
+139,140,Real Madrid,Bayern Munich,4,2,Team 1 Menang
+150,151,Real Madrid,Napoli,3,1,Team 1 Menang
+151,152,Napoli,Real Madrid,1,3,Team 2 Menang
+156,157,Benfica,Dortmund,1,0,Team 1 Menang
+157,158,Dortmund,Benfica,4,0,Team 1 Menang
+167,168,Bayern Munich,Benfica,1,0,Team 1 Menang
+168,169,Benfica,Bayern Munich,2,2,Imbang
+187,188,Paris S-G,Chelsea,2,1,Team 1 Menang
+188,189,Chelsea,Paris S-G,1,2,Team 2 Menang
+218,219,Paris S-G,Chelsea,1,1,Imbang
+219,220,Chelsea,Paris S-G,2,2,Imbang
+221,222,Real Madrid,Bayern Munich,1,0,Team 1 Menang
+222,223,Bayern Munich,Real Madrid,0,4,Team 2 Menang
+229,230,Real Madrid,Dortmund,3,0,Team 1 Menang
+230,231,Dortmund,Real Madrid,2,0,Team 1 Menang
+231,232,Paris S-G,Chelsea,3,1,Team 1 Menang
+232,233,Chelsea,Paris S-G,2,0,Team 1 Menang
+249,250,Bayern Munich,Dortmund,2,1,Team 1 Menang
+252,253,Dortmund,Real Madrid,4,1,Team 1 Menang
+253,254,Real Madrid,Dortmund,2,0,Team 1 Menang
+278,279,Chelsea,Bayern Munich,1,1,Imbang
+279,280,Bayern Munich,Real Madrid,2,1,Team 1 Menang
+280,281,Real Madrid,Bayern Munich,2,1,Team 1 Menang
+289,290,Benfica,Chelsea,0,1,Team 2 Menang
+290,291,Chelsea,Benfica,2,1,Team 1 Menang
+303,304,Napoli,Chelsea,3,1,Team 1 Menang
+304,305,Chelsea,Napoli,4,1,Team 1 Menang
+316,317,Real Madrid,Tottenham,4,0,Team 1 Menang
+317,318,Tottenham,Real Madrid,0,1,Team 2 Menang
+328,329,Milan,Tottenham,0,1,Team 2 Menang
+329,330,Tottenham,Milan,0,0,Imbang
+376,377,Liverpool,Chelsea,1,3,Team 2 Menang
+377,378,Chelsea,Liverpool,4,4,Imbang
+388,389,Real Madrid,Liverpool,0,1,Team 2 Menang
+389,390,Liverpool,Real Madrid,4,0,Team 1 Menang
+397,398,Liverpool,Chelsea,1,1,Imbang
+398,399,Chelsea,Liverpool,3,2,Team 1 Menang
+423,424,Milan,Liverpool,2,1,Team 1 Menang
+426,427,Chelsea,Liverpool,1,0,Team 1 Menang
+427,428,Liverpool,Chelsea,1,0,Team 1 Menang
+428,429,Milan,Bayern Munich,2,2,Imbang
+429,430,Bayern Munich,Milan,0,2,Team 2 Menang
+436,437,Real Madrid,Bayern Munich,3,2,Team 1 Menang
+437,438,Bayern Munich,Real Madrid,2,1,Team 1 Menang
+465,466,Bayern Munich,Milan,1,1,Imbang
+466,467,Milan,Bayern Munich,4,1,Team 1 Menang
+477,478,Benfica,Liverpool,1,0,Team 1 Menang
+478,479,Liverpool,Benfica,0,2,Team 2 Menang
+481,482,Liverpool,Milan,3,3,Imbang
+482,483,Chelsea,Liverpool,0,0,Imbang
+483,484,Liverpool,Chelsea,1,0,Team 1 Menang
+486,487,Chelsea,Bayern Munich,4,2,Team 1 Menang
+487,488,Bayern Munich,Chelsea,3,2,Team 1 Menang
+523,524,Bayern Munich,Real Madrid,1,1,Imbang
+524,525,Real Madrid,Bayern Munich,1,0,Team 1 Menang
+552,553,Real Madrid,Liverpool,1,0,Team 1 Menang
+559,560,Chelsea,Real Madrid,1,3,Team 2 Menang
+560,561,Real Madrid,Chelsea,2,3,Team 2 Menang
+561,562,Benfica,Liverpool,1,3,Team 2 Menang
+562,563,Liverpool,Benfica,3,3,Imbang
+575,576,Paris S-G,Real Madrid,1,0,Team 1 Menang
+576,577,Real Madrid,Paris S-G,3,1,Team 1 Menang
+582,583,Real Madrid,Chelsea,1,1,Imbang
+583,584,Chelsea,Real Madrid,2,0,Team 1 Menang
+586,587,Bayern Munich,Paris S-G,2,3,Team 2 Menang
+587,588,Paris S-G,Bayern Munich,0,1,Team 2 Menang
+588,589,Real Madrid,Liverpool,3,1,Team 1 Menang
+589,590,Liverpool,Real Madrid,0,0,Imbang
+610,611,Bayern Munich,Paris S-G,1,0,Team 1 Menang
+611,612,Chelsea,Bayern Munich,0,3,Team 2 Menang
+612,613,Bayern Munich,Chelsea,4,1,Team 1 Menang
+623,624,Dortmund,Paris S-G,2,1,Team 1 Menang
+624,625,Paris S-G,Dortmund,2,0,Team 1 Menang
+627,628,Liverpool,Tottenham,2,0,Team 1 Menang
+640,641,Liverpool,Bayern Munich,0,0,Imbang
+641,642,Bayern Munich,Liverpool,1,3,Team 2 Menang
+648,649,Tottenham,Dortmund,3,0,Team 1 Menang
+649,650,Dortmund,Tottenham,0,1,Team 2 Menang
+656,657,Real Madrid,Liverpool,3,1,Team 1 Menang
+657,658,Bayern Munich,Real Madrid,1,2,Team 2 Menang
+658,659,Real Madrid,Bayern Munich,2,2,Imbang
+677,678,Real Madrid,Paris S-G,3,1,Team 1 Menang
+678,679,Paris S-G,Real Madrid,1,2,Team 2 Menang
+690,691,Bayern Munich,Real Madrid,1,2,Team 2 Menang
+691,692,Real Madrid,Bayern Munich,4,2,Team 1 Menang
+702,703,Real Madrid,Napoli,3,1,Team 1 Menang
+703,704,Napoli,Real Madrid,1,3,Team 2 Menang
+708,709,Benfica,Dortmund,1,0,Team 1 Menang
+709,710,Dortmund,Benfica,4,0,Team 1 Menang
+719,720,Bayern Munich,Benfica,1,0,Team 1 Menang
+720,721,Benfica,Bayern Munich,2,2,Imbang
+739,740,Paris S-G,Chelsea,2,1,Team 1 Menang
+740,741,Chelsea,Paris S-G,1,2,Team 2 Menang
+770,771,Paris S-G,Chelsea,1,1,Imbang
+771,772,Chelsea,Paris S-G,2,2,Imbang
+773,774,Real Madrid,Bayern Munich,1,0,Team 1 Menang
+774,775,Bayern Munich,Real Madrid,0,4,Team 2 Menang
+781,782,Real Madrid,Dortmund,3,0,Team 1 Menang
+782,783,Dortmund,Real Madrid,2,0,Team 1 Menang
+783,784,Paris S-G,Chelsea,3,1,Team 1 Menang
+784,785,Chelsea,Paris S-G,2,0,Team 1 Menang
+801,802,Bayern Munich,Dortmund,2,1,Team 1 Menang
+804,805,Dortmund,Real Madrid,4,1,Team 1 Menang
+805,806,Real Madrid,Dortmund,2,0,Team 1 Menang
+830,831,Chelsea,Bayern Munich,1,1,Imbang
+831,832,Bayern Munich,Real Madrid,2,1,Team 1 Menang
+832,833,Real Madrid,Bayern Munich,2,1,Team 1 Menang
+841,842,Benfica,Chelsea,0,1,Team 2 Menang
+842,843,Chelsea,Benfica,2,1,Team 1 Menang
+855,856,Napoli,Chelsea,3,1,Team 1 Menang
+856,857,Chelsea,Napoli,4,1,Team 1 Menang
+868,869,Real Madrid,Tottenham,4,0,Team 1 Menang
+869,870,Tottenham,Real Madrid,0,1,Team 2 Menang
+880,881,Milan,Tottenham,0,1,Team 2 Menang
+881,882,Tottenham,Milan,0,0,Imbang
+928,929,Liverpool,Chelsea,1,3,Team 2 Menang
+929,930,Chelsea,Liverpool,4,4,Imbang
+940,941,Real Madrid,Liverpool,0,1,Team 2 Menang
+941,942,Liverpool,Real Madrid,4,0,Team 1 Menang
+949,950,Liverpool,Chelsea,1,1,Imbang
+950,951,Chelsea,Liverpool,3,2,Team 1 Menang
+975,976,Milan,Liverpool,2,1,Team 1 Menang
+978,979,Chelsea,Liverpool,1,0,Team 1 Menang
+979,980,Liverpool,Chelsea,1,0,Team 1 Menang
+980,981,Milan,Bayern Munich,2,2,Imbang
+981,982,Bayern Munich,Milan,0,2,Team 2 Menang
+988,989,Real Madrid,Bayern Munich,3,2,Team 1 Menang
+989,990,Bayern Munich,Real Madrid,2,1,Team 1 Menang
+1017,1018,Bayern Munich,Milan,1,1,Imbang
+1018,1019,Milan,Bayern Munich,4,1,Team 1 Menang
+1029,1030,Benfica,Liverpool,1,0,Team 1 Menang
+1030,1031,Liverpool,Benfica,0,2,Team 2 Menang
+1033,1034,Liverpool,Milan,3,3,Imbang
+1034,1035,Chelsea,Liverpool,0,0,Imbang
+1035,1036,Liverpool,Chelsea,1,0,Team 1 Menang
+1038,1039,Chelsea,Bayern Munich,4,2,Team 1 Menang
+1039,1040,Bayern Munich,Chelsea,3,2,Team 1 Menang
+1075,1076,Bayern Munich,Real Madrid,1,1,Imbang
+1076,1077,Real Madrid,Bayern Munich,1,0,Team 1 Menang
+1104,1105,Real Madrid,Liverpool,1,0,Team 1 Menang
+1111,1112,Chelsea,Real Madrid,1,3,Team 2 Menang
+1112,1113,Real Madrid,Chelsea,2,3,Team 2 Menang
+1113,1114,Benfica,Liverpool,1,3,Team 2 Menang
+1114,1115,Liverpool,Benfica,3,3,Imbang
+1127,1128,Paris S-G,Real Madrid,1,0,Team 1 Menang
+1128,1129,Real Madrid,Paris S-G,3,1,Team 1 Menang
+1134,1135,Real Madrid,Chelsea,1,1,Imbang
+1135,1136,Chelsea,Real Madrid,2,0,Team 1 Menang
+1138,1139,Bayern Munich,Paris S-G,2,3,Team 2 Menang
+1139,1140,Paris S-G,Bayern Munich,0,1,Team 2 Menang
+1140,1141,Real Madrid,Liverpool,3,1,Team 1 Menang
+1141,1142,Liverpool,Real Madrid,0,0,Imbang
+1162,1163,Bayern Munich,Paris S-G,1,0,Team 1 Menang
+1163,1164,Chelsea,Bayern Munich,0,3,Team 2 Menang
+1164,1165,Bayern Munich,Chelsea,4,1,Team 1 Menang
+1175,1176,Dortmund,Paris S-G,2,1,Team 1 Menang
+1176,1177,Paris S-G,Dortmund,2,0,Team 1 Menang
+1179,1180,Liverpool,Tottenham,2,0,Team 1 Menang
+1192,1193,Liverpool,Bayern Munich,0,0,Imbang
+1193,1194,Bayern Munich,Liverpool,1,3,Team 2 Menang
+1200,1201,Tottenham,Dortmund,3,0,Team 1 Menang
+1201,1202,Dortmund,Tottenham,0,1,Team 2 Menang
+1208,1209,Real Madrid,Liverpool,3,1,Team 1 Menang
+1209,1210,Bayern Munich,Real Madrid,1,2,Team 2 Menang
+1210,1211,Real Madrid,Bayern Munich,2,2,Imbang
+1229,1230,Real Madrid,Paris S-G,3,1,Team 1 Menang
+1230,1231,Paris S-G,Real Madrid,1,2,Team 2 Menang
+1242,1243,Bayern Munich,Real Madrid,1,2,Team 2 Menang
+1243,1244,Real Madrid,Bayern Munich,4,2,Team 1 Menang
+1254,1255,Real Madrid,Napoli,3,1,Team 1 Menang
+1255,1256,Napoli,Real Madrid,1,3,Team 2 Menang
+1260,1261,Benfica,Dortmund,1,0,Team 1 Menang
+1261,1262,Dortmund,Benfica,4,0,Team 1 Menang
+1271,1272,Bayern Munich,Benfica,1,0,Team 1 Menang
+1272,1273,Benfica,Bayern Munich,2,2,Imbang
+1291,1292,Paris S-G,Chelsea,2,1,Team 1 Menang
+1292,1293,Chelsea,Paris S-G,1,2,Team 2 Menang
+1322,1323,Paris S-G,Chelsea,1,1,Imbang
+1323,1324,Chelsea,Paris S-G,2,2,Imbang
+1325,1326,Real Madrid,Bayern Munich,1,0,Team 1 Menang
+1326,1327,Bayern Munich,Real Madrid,0,4,Team 2 Menang
+1333,1334,Real Madrid,Dortmund,3,0,Team 1 Menang
+1334,1335,Dortmund,Real Madrid,2,0,Team 1 Menang
+1335,1336,Paris S-G,Chelsea,3,1,Team 1 Menang
+1336,1337,Chelsea,Paris S-G,2,0,Team 1 Menang
+1353,1354,Bayern Munich,Dortmund,2,1,Team 1 Menang
+1356,1357,Dortmund,Real Madrid,4,1,Team 1 Menang
+1357,1358,Real Madrid,Dortmund,2,0,Team 1 Menang
+1382,1383,Chelsea,Bayern Munich,1,1,Imbang
+1383,1384,Bayern Munich,Real Madrid,2,1,Team 1 Menang
+1384,1385,Real Madrid,Bayern Munich,2,1,Team 1 Menang
+1393,1394,Benfica,Chelsea,0,1,Team 2 Menang
+1394,1395,Chelsea,Benfica,2,1,Team 1 Menang
+1407,1408,Napoli,Chelsea,3,1,Team 1 Menang
+1408,1409,Chelsea,Napoli,4,1,Team 1 Menang
+1420,1421,Real Madrid,Tottenham,4,0,Team 1 Menang
+1421,1422,Tottenham,Real Madrid,0,1,Team 2 Menang
+1432,1433,Milan,Tottenham,0,1,Team 2 Menang
+1433,1434,Tottenham,Milan,0,0,Imbang
+1480,1481,Liverpool,Chelsea,1,3,Team 2 Menang
+1481,1482,Chelsea,Liverpool,4,4,Imbang
+1492,1493,Real Madrid,Liverpool,0,1,Team 2 Menang
+1493,1494,Liverpool,Real Madrid,4,0,Team 1 Menang
+1501,1502,Liverpool,Chelsea,1,1,Imbang
+1502,1503,Chelsea,Liverpool,3,2,Team 1 Menang
+1527,1528,Milan,Liverpool,2,1,Team 1 Menang
+1530,1531,Chelsea,Liverpool,1,0,Team 1 Menang
+1531,1532,Liverpool,Chelsea,1,0,Team 1 Menang
+1532,1533,Milan,Bayern Munich,2,2,Imbang
+1533,1534,Bayern Munich,Milan,0,2,Team 2 Menang
+1540,1541,Real Madrid,Bayern Munich,3,2,Team 1 Menang
+1541,1542,Bayern Munich,Real Madrid,2,1,Team 1 Menang
+1569,1570,Bayern Munich,Milan,1,1,Imbang
+1570,1571,Milan,Bayern Munich,4,1,Team 1 Menang
+1581,1582,Benfica,Liverpool,1,0,Team 1 Menang
+1582,1583,Liverpool,Benfica,0,2,Team 2 Menang
+1585,1586,Liverpool,Milan,3,3,Imbang
+1586,1587,Chelsea,Liverpool,0,0,Imbang
+1587,1588,Liverpool,Chelsea,1,0,Team 1 Menang
+1590,1591,Chelsea,Bayern Munich,4,2,Team 1 Menang
+1591,1592,Bayern Munich,Chelsea,3,2,Team 1 Menang
+1627,1628,Bayern Munich,Real Madrid,1,1,Imbang
+1628,1629,Real Madrid,Bayern Munich,1,0,Team 1 Menang
